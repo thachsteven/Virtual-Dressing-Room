@@ -13,7 +13,7 @@
 
 <ul>
   <li><h4>git clone https://github.com/thachsteven/Virtual-Dressing-Room.git</h4></li>
-  <li><h4>cd jira-clone-app-reactjs</h4></li>
+  <li><h4>cd Virtual-Dressing-Room</h4></li>
   <li><h4>npm install (or yarn install)</h4></li>
   <li><h4>npm start (or yarn start)</h4></li>
 </ul>
