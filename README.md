@@ -1,4 +1,4 @@
-<h1>Virtual Dressing Room</h1>
+<h1>Virtual Dressing Room.</h1>
 <h4>Technologies: Reactjs, React-hook, redux, bootstrap, CSS</h4>
 <h4>Source: https://github.com/thachsteven/Virtual-Dressing-Room</h4>
 <h4>Live demo: https://virtual-dressing-room.vercel.app/</h4>
