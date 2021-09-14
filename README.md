@@ -7,7 +7,7 @@
   Virtual Dressing Room is a funny app you can choose clothes, shoes, bags, hair, necklaces, backgrounds and the right
   model will change it to your liking
 </h3>
-<img src="https://im7.ezgif.com/tmp/ezgif-7-3b74f07ce0a2.gif" />
+<img src="./public/images/dressingroom.gif" alt="abc" />
 <hr />
 <h2>Setting up development environment 🛠</h2>
 
